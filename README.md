@@ -1,0 +1,2 @@
+# TechExpo-Management-System---A-Comprehensive-JavaFX-Application-for-Event-Management
+A JavaFX-based GUI application for managing Sarah's "TechExpo" event. Features include adding, updating, deleting, and viewing project details, random spotlight selection, recording awards, and visualizing results. It demonstrates OOP principles, custom sorting algorithms, and robust file handling for a seamless user experience.
